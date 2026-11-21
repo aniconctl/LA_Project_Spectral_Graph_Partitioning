@@ -56,7 +56,7 @@ Based on the Fiedler partition in **Figure 1.22**:
 
 Because $P(G_1) > P(G_2)$, we evaluate moving a single boundary block from the overpopulated district $G_1$ to $G_2$ while verifying that both resulting subgraphs remain connected (**contiguity**). The only boundary blocks in $G_1$ adjacent to $G_2$ are **`2010`** and **`2004`**.
 
-| Partition Scenario | $G_1$ Pop. (Blocks) | $G_2$ Pop. (Blocks) | $|P(G_1)-P(G_2)|$ | $\delta_{\max}$ (%) | $\Delta$ (%) | Cut Edges | Contiguous? |
+| Partition Scenario | $G_1$ Pop. (Blocks) | $G_2$ Pop. (Blocks) | $\lvert P(G_1)-P(G_2) \rvert$ | $\delta_{\max}$ (%) | $\Delta$ (%) | Cut Edges | Contiguous? |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Baseline (Fig. 1.22)** | 1280 (11) | 720 (5) | 560 | 28.000 | 56.000 | 3 | Yes |
 | Move block `2010` ($G_1 \to G_2$) | 1100 (10) | 900 (6) | 200 | 10.000 | 20.000 | 4 | Yes |
