@@ -1,0 +1,80 @@
+run,graph,block_id,lambda_2,fiedler_component,cluster
+C1,full_graph,2000,0.338,0.168,G1
+C1,full_graph,2001,0.338,0.156,G1
+C1,full_graph,2002,0.338,0.195,G1
+C1,full_graph,2003,0.338,0.206,G1
+C1,full_graph,2004,0.338,0.059,G1
+C1,full_graph,2005,0.338,-0.098,G2
+C1,full_graph,2006,0.338,-0.174,G2
+C1,full_graph,2007,0.338,-0.424,G2
+C1,full_graph,2008,0.338,-0.641,G2
+C1,full_graph,2009,0.338,-0.314,G2
+C1,full_graph,2010,0.338,0.071,G1
+C1,full_graph,2011,0.338,0.137,G1
+C1,full_graph,2012,0.338,0.147,G1
+C1,full_graph,2013,0.338,0.185,G1
+C1,full_graph,2014,0.338,0.149,G1
+C1,full_graph,2015,0.338,0.177,G1
+C1,g1_subgraph,2000,0.675,0.287,G1a
+C1,g1_subgraph,2001,0.675,0.254,G1a
+C1,g1_subgraph,2002,0.675,0.264,G1a
+C1,g1_subgraph,2003,0.675,0.267,G1a
+C1,g1_subgraph,2004,0.675,0.171,G1a
+C1,g1_subgraph,2010,0.675,-0.506,G1b
+C1,g1_subgraph,2011,0.675,-0.093,G1b
+C1,g1_subgraph,2012,0.675,0.121,G1a
+C1,g1_subgraph,2013,0.675,0.069,G1a
+C1,g1_subgraph,2014,0.675,-0.577,G1b
+C1,g1_subgraph,2015,0.675,-0.258,G1b
+C3,full_graph,2000,0.146,0.191,G1
+C3,full_graph,2001,0.146,0.167,G1
+C3,full_graph,2002,0.146,0.239,G1
+C3,full_graph,2003,0.146,0.216,G1
+C3,full_graph,2004,0.146,-0.001,G2
+C3,full_graph,2005,0.146,-0.265,G2
+C3,full_graph,2006,0.146,-0.301,G2
+C3,full_graph,2007,0.146,-0.541,G2
+C3,full_graph,2008,0.146,-0.366,G2
+C3,full_graph,2009,0.146,-0.368,G2
+C3,full_graph,2010,0.146,-0.030,G2
+C3,full_graph,2011,0.146,0.121,G1
+C3,full_graph,2012,0.146,0.141,G1
+C3,full_graph,2013,0.146,0.232,G1
+C3,full_graph,2014,0.146,0.048,G1
+C3,full_graph,2015,0.146,0.130,G1
+C3,g1_subgraph,2000,0.277,0.387,G1a
+C3,g1_subgraph,2001,0.277,0.284,G1a
+C3,g1_subgraph,2002,0.277,0.335,G1a
+C3,g1_subgraph,2003,0.277,0.267,G1a
+C3,g1_subgraph,2011,0.277,-0.320,G1b
+C3,g1_subgraph,2012,0.277,-0.062,G1b
+C3,g1_subgraph,2013,0.277,-0.128,G1b
+C3,g1_subgraph,2014,0.277,-0.425,G1b
+C3,g1_subgraph,2015,0.277,-0.532,G1b
+C3 sweep,full_graph,2000,0.146,0.191,G1
+C3 sweep,full_graph,2001,0.146,0.167,G1
+C3 sweep,full_graph,2002,0.146,0.239,G1
+C3 sweep,full_graph,2003,0.146,0.216,G1
+C3 sweep,full_graph,2004,0.146,-0.001,G1
+C3 sweep,full_graph,2005,0.146,-0.265,G2
+C3 sweep,full_graph,2006,0.146,-0.301,G2
+C3 sweep,full_graph,2007,0.146,-0.541,G2
+C3 sweep,full_graph,2008,0.146,-0.366,G2
+C3 sweep,full_graph,2009,0.146,-0.368,G2
+C3 sweep,full_graph,2010,0.146,-0.030,G1
+C3 sweep,full_graph,2011,0.146,0.121,G1
+C3 sweep,full_graph,2012,0.146,0.141,G1
+C3 sweep,full_graph,2013,0.146,0.232,G1
+C3 sweep,full_graph,2014,0.146,0.048,G1
+C3 sweep,full_graph,2015,0.146,0.130,G1
+C3 sweep,g1_subgraph,2000,0.254,0.328,G1a
+C3 sweep,g1_subgraph,2001,0.254,0.274,G1a
+C3 sweep,g1_subgraph,2002,0.254,0.289,G1a
+C3 sweep,g1_subgraph,2003,0.254,0.234,G1a
+C3 sweep,g1_subgraph,2004,0.254,0.143,G1a
+C3 sweep,g1_subgraph,2010,0.254,-0.447,G1b
+C3 sweep,g1_subgraph,2011,0.254,-0.260,G1b
+C3 sweep,g1_subgraph,2012,0.254,0.058,G1a
+C3 sweep,g1_subgraph,2013,0.254,-0.012,G1a
+C3 sweep,g1_subgraph,2014,0.254,-0.502,G1b
+C3 sweep,g1_subgraph,2015,0.254,-0.369,G1b
